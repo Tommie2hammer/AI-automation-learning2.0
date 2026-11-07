@@ -10,3 +10,10 @@ I am learning GitHub to develop my skills in:
 - ## LEARNING PROGRESS
 - created my first GitHub repository.
 - learning how to edit files and makes commits
+## BRANCHING PRACTICE
+this section was created using my first feature branch 
+I am learning how to:
+- create branches
+- make independent changes
+- commit changes
+- merge branches into main
